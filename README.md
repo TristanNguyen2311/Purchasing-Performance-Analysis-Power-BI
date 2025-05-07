@@ -1,16 +1,15 @@
-# UNIGAP - PORTFOLIO BUILDING MODULE -  PBI TEMPLATE
-
-🔥Use this template as an outline for your Github projects. Make a copy of this readme file and tailor it your own. Happy portfolio-ing and start applying aggressively :"))
 
 ---
-![E-commerce Website_Analysis](https://github.com/Dorothy-Ho-Vy/Sample-Readme-template/blob/0e47d32968459ec80d7d2666fbf5044ac56894e6/1.png)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d007d335-052f-481d-8e10-818c86061478" alt="purchasing-concept">
+</p>
 
 Change Icon emoji 🔥🔍📘🚩 to your likings by clicking "Start" + "."
 
-# 📊 Project Title: [Your Project Name]  
-Author: [Your Name]  
-Date: YYYY-MM-DD  
-Tools Used: SQL/ Power BI/ Python  
+# 📊 Project Title: Purchasing Performance Analysis in Power BI
+Author: Nguyễn Văn Trí
+Date:  
+
 
 ---
 
