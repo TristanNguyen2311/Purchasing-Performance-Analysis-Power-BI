@@ -6,7 +6,7 @@
 
 Change Icon emoji 🔥🔍📘🚩 to your likings by clicking "Start" + "."
 
-# 📊 Project Title: Purchasing Performance Analysis in Power BI
+# 📊 Project Title: Purchasing Performance Analysis (Power BI)
 Author: Nguyễn Văn Trí
 Date:  
 
