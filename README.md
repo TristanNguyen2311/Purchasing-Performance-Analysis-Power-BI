@@ -7,8 +7,7 @@
 Change Icon emoji 🔥🔍📘🚩 to your likings by clicking "Start" + "."
 
 # 📊 Project Title: Purchasing Performance Analysis (Power BI)
-Author: Nguyễn Văn Trí
-Date:  
+
 
 
 ---
@@ -27,20 +26,13 @@ Date:
 ### Objective:
 ### 📖 What is this project about? 
  
-- Provide a brief introduction to the project. Define the problem statement and why it is important.
-- Write in bullet point format
+Create an Operations Dashboard that provides leadership with a clear, easy-to-understand view to support better decision-making and operational performance.
+- Ensure sufficient inventory for sales
+- Delivered on time
+- Optimized procurement costs
 
- _Example:_
- 
- This project analyzes sales trends and inventory control using SQL and Power BI. The objective is
- - optimize stock levels & improve demand forecasting
- - reduce costs.  
 
 ### 👤 Who is this project for?  
-
-Mention who might benefit from this project 
-
- _Example:_
 
 ✔️ Data analysts & business analysts  
 ✔️ Supply chain managers & inventory controllers  
