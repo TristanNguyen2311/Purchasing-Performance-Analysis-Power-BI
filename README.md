@@ -39,15 +39,12 @@ Create an Operations Dashboard that provides leadership with a clear, easy-to-un
 ✔️ Decision-makers & stakeholders  
 
 ###  ❓Business Questions:  
-Clearly outline what the business questions project will solve.  
 
- _Example:_
+✔️ Identify high-performing and best-selling products to increase revenue and customer growth.
+✔️ Manage procurement lead time to ensure smooth operations and timely delivery.
+✔️ Optimize purchasing costs to improve company profitability. 
 
-✔️ Identify high-demand products and sales trends.  
-✔️ Optimize inventory levels to prevent overstocking or stockouts.  
-✔️ Provide actionable insights through Power BI dashboards.  
-
-### 🎯Project Outcome:  
+### 🎯Project Outcome:  2132
 Summarize key findings and insights/ trends/ themes in a concise, bullet-point 
 format.  
 
@@ -63,8 +60,7 @@ format.
 
 ### 📌 Data Source  
 - Source: (Mention where the dataset is obtained from—Kaggle, company database, government sources, etc.)  
-- Size: (Mention the number of rows & columns)  
-- Format: (.csv, .sql, .xlsx, etc.)  
+- Format: .csv
 
 ### 📊 Data Structure & Relationships  
 
