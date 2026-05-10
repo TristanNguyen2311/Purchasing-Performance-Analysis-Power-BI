@@ -40,11 +40,12 @@ Create an Operations Dashboard that provides leadership with a clear, easy-to-un
 
 ###  ❓Business Questions:  
 
-✔️ Identify high-performing and best-selling products to increase revenue and customer growth.
-✔️ Manage procurement lead time to ensure smooth operations and timely delivery.
-✔️ Optimize purchasing costs to improve company profitability. 
+✔️ Identify high-performing and best-selling products to increase revenue and customer growth.   
+✔️ Manage procurement lead time to ensure smooth operations and timely delivery.  
+✔️ Optimize purchasing costs to improve company profitability.  
 
-### 🎯Project Outcome:  2132
+
+### 🎯Project Outcome:  chua lam`
 Summarize key findings and insights/ trends/ themes in a concise, bullet-point 
 format.  
 
@@ -59,82 +60,69 @@ format.
 ## 📂 Dataset Description & Data Structure  
 
 ### 📌 Data Source  
-- Source: (Mention where the dataset is obtained from—Kaggle, company database, government sources, etc.)  
+- Source:  AdventureWorks 2019 from BigQuery
 - Format: .csv
 
 ### 📊 Data Structure & Relationships  
 
 #### 1️⃣ Tables Used:  
-Mention how many tables are in the dataset.  
+There are 6 tables in the dataset.  
 
 #### 2️⃣ Table Schema & Data Snapshot  
 
-Table 1: Products Table  
+Table 1: Product  
+<img width="1829" height="798" alt="image" src="https://github.com/user-attachments/assets/2f1ed83d-f069-4334-ad22-c67050af060b" />
 
-👉🏻 Insert a screenshot of table schema 
+Table 2: ProductTable
+<img width="1226" height="794" alt="image" src="https://github.com/user-attachments/assets/54ff2812-6e59-45dd-91cd-762fe7cc03a9" />
 
- _Example:_
+Table 3: OrderDetail
+<img width="1828" height="772" alt="image" src="https://github.com/user-attachments/assets/3098a499-391b-4d69-af73-11dd0408dc1e" />
 
-| Column Name | Data Type | Description |  
-|-------------|----------|-------------|  
-| Product_ID  | INT      | Unique identifier for each product |  
-| Name        | TEXT     | Product name |  
-| Category    | TEXT     | Product category |  
-| Price       | FLOAT    | Price per unit |  
+Table 4: OrderHeader
+<img width="1607" height="767" alt="image" src="https://github.com/user-attachments/assets/0701bb79-30fe-456d-9600-2a869f900dbc" />
 
+Table 5: ProductVendor
+<img width="1611" height="770" alt="image" src="https://github.com/user-attachments/assets/4e787681-77d2-431a-8495-874efca9fbd7" />
 
+Table 6: Vendor
+<img width="1608" height="773" alt="image" src="https://github.com/user-attachments/assets/6e3aa597-3684-4d3e-a80c-9bb5dd21f01f" />
 
-Table 2: Sales Transactions  
+Table 7: ShipMethod
+<img width="1279" height="332" alt="image" src="https://github.com/user-attachments/assets/eb0c3d33-4969-49f9-a577-ba86dfce2278" />
 
-👉🏻 Insert a screenshot of table schema 
-
-
- _Example:_
-
-| Column Name    | Data Type | Description |  
-|---------------|----------|-------------|  
-| Transaction_ID | INT      | Unique identifier for each sale |  
-| Product_ID     | INT      | Foreign key linking to Products table |  
-| Quantity       | INT      | Number of items sold |  
-| Sale_Date      | DATE     | Date of transaction |  
-
-
-📌If the table is too big, only capture a part of it that contains key metrics you used in the projects or put the table in toggle
 
 #### 3️⃣ Data Relationships:  
-Describe the connections between tables—e.g., one-to-many, many-to-many.  
 
-👉🏻 Include a screenshot of Data Modeling to visualize relationships.  
 
 ---
 
 ## 🧠 Design Thinking Process  
 
-Explain the step-by-step approach taken to solve the problem.  
-
-👉🏻 Insert a screenshot of the Design Thinking steps (Screenshot your Excel design thinking tables for better presentation).  
-
 1️⃣ Empathize  
+The Empathize stage focuses on understanding users’ pain points, needs, and business challenges. Through research and observation, we gain insights into what users truly need in order to build effective and user-centered solutions.
+
 2️⃣ Define point of view  
+The Define stage focuses on clearly identifying the core business problem and key objectives based on user needs and insights gathered from the Empathize stage.
+<img width="1680" height="541" alt="image" src="https://github.com/user-attachments/assets/f664ed68-cf1c-46ce-96ca-c4b4aa256979" />
+
 3️⃣ Ideate  
-4️⃣ Prototype and review  
+The Ideate stage focuses on generating ideas, metrics, and analytical approaches to solve the defined business problem effectively.
+<img width="1743" height="610" alt="image" src="https://github.com/user-attachments/assets/41662819-d618-4d9a-b08b-ae743d4fa8ed" />
+
+4️⃣ Prototype and Review  
+The Prototype & Review stage focuses on designing, testing, and refining dashboard layouts and visuals to ensure the solution is clear, interactive, and supports effective decision-making.
 
 ---
 
 ## ⚒️ Main Process
 
 1️⃣ Data Cleaning & Preprocessing  
+
+
 2️⃣ Exploratory Data Analysis (EDA)  
-3️⃣ SQL/ Python Analysis 
+3️⃣ Power BI Visualization  (applicable for PBI Projects)
 
-- In each step, show your Code
-
-- Include query/ code execution screenshots or result samples
-
-- Explain its purpose and its findings
-
-
-4️⃣ Power BI Visualization  (applicable for PBI Projects)
 
 ---
 
