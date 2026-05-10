@@ -93,6 +93,7 @@ Table 7: ShipMethod
 
 
 #### 3️⃣ Data Relationships:  
+<img width="1190" height="719" alt="image" src="https://github.com/user-attachments/assets/c9fa855a-d178-48bb-85e2-4859b3571f38" />
 
 
 ---
