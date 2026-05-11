@@ -119,11 +119,24 @@ The Prototype & Review stage focuses on designing, testing, and refining dashboa
 ## ⚒️ Main Process
 
 1️⃣ Data Cleaning & Preprocessing  
+1. Connect to database: I directly connect AdventureWorks 2019 database from google BigQuery to PowerBI and select tables related to Purchasing.
+<img width="1105" height="881" alt="image" src="https://github.com/user-attachments/assets/937d1f29-5ba2-4a14-9c09-06ddc475be74" />
+
+2. Process raw data such as removing duplicates, outliers, missing values, standardize values and fix data types, ....
 
 
 2️⃣ Exploratory Data Analysis (EDA)  
-3️⃣ Power BI Visualization  (applicable for PBI Projects)
+1. Read and understand the columns in each table, then identify the key fields used for analysis.
+2. Validate and understand the problem using data.
+   
 
+
+3️⃣ Power BI Visualization  
+1. Designed interactive procurement dashboards to monitor vendor performance, purchasing trends, shipping efficiency, and cost optimization opportunities.
+2. Developed KPI metrics and DAX measures including Total Spend, Avg PO Value, On-time Delivery Rate, Reject Rate, Saving Opportunity, and Price Difference %,...
+3. Built analytical visualizations such as trend charts, scatter plots, and  table to support procurement decision-making.
+4. Implemented interactive features including slicers, conditional formatting, and dynamic filtering for better user experience.
+5. Structured dashboards using a business-focused storytelling approach to highlight actionable insights and recommendations.
 
 ---
 
