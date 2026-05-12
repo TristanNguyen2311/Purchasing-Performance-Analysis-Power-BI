@@ -159,22 +159,26 @@ The Prototype & Review stage focuses on designing, testing, and refining dashboa
 
 ### 🔍 Dashboard Preview  
 
-#### 1️⃣ Dashboard 1 Preview  
-👉🏻 Insert Power BI dashboard screenshots here  
+#### 1️⃣ Purchasing Overview
+<img width="1333" height="740" alt="image" src="https://github.com/user-attachments/assets/86695f4c-4793-47bf-96a3-6bac3a128e5f" />
+
 
 📌 Analysis 1:  
 - Observation: _Describe trends, key metrics, and patterns._  
 - Recommendation: _Suggest actions based on insights._  
 
-#### 2️⃣ Dashboard 2 Preview  
-👉🏻 Insert Power BI dashboard screenshots here
+#### 2️⃣ Vendor Performance
+<img width="1328" height="743" alt="image" src="https://github.com/user-attachments/assets/c69d21f0-220b-47f7-946c-319952751da4" />
+
 
 📌 Analysis 2:   
 - Observation: _Describe trends, key metrics, and patterns._  
 - Recommendation: _Suggest actions based on insights._  
 
-#### 3️⃣ Dashboard 3 Preview  
-👉🏻 Insert Power BI dashboard screenshots here  
+#### 3️⃣ Price Optimazation  
+<img width="1328" height="742" alt="image" src="https://github.com/user-attachments/assets/4b1aab60-9094-406c-93d1-c533bf95d63e" />
+
+
 
 📌 Analysis 3:  
 - Observation: _Describe trends, key metrics, and patterns._  
