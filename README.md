@@ -126,8 +126,23 @@ The Prototype & Review stage focuses on designing, testing, and refining dashboa
 
 
 2️⃣ Exploratory Data Analysis (EDA)  
-1. Read and understand the columns in each table, then identify the key fields used for analysis.
-2. Validate and understand the problem using data.
+1. Explored and analyzed the procurement dataset to understand purchasing behavior, vendor performance, delivery efficiency, and cost optimization opportunities.
+2. Read and examined the structure of each table, identified relationships between datasets, and selected key fields required for business analysis.
+3. Performed analytical exploration to detect:
+ - Purchasing trends over time
+ - Vendor performance differences
+ - Lead time inefficiencies
+ - Shipping performance issues
+ - Rejection patterns
+4. Compared vendors using metrics such as:
+- Total Spend
+- Lead Time
+- On-time Delivery Rate
+- Reject Rate
+- Unit Price Differences
+- Potential Savings
+5. Identified key business insights and analytical directions used to design dashboards and support procurement decision-making.
+6. Validated business problems using data-driven analysis before building the final Power BI dashboards and visualizations.
    
 
 
