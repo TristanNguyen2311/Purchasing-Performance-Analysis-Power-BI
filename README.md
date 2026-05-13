@@ -66,7 +66,7 @@ format.
 ### 📊 Data Structure & Relationships  
 
 #### 1️⃣ Tables Used:  
-There are 6 tables in the dataset.  
+There are 7 tables in the dataset.  
 
 #### 2️⃣ Table Schema & Data Snapshot  
 
@@ -102,6 +102,7 @@ Table 7: ShipMethod
 
 1️⃣ Empathize  
 The Empathize stage focuses on understanding users’ pain points, needs, and business challenges. Through research and observation, we gain insights into what users truly need in order to build effective and user-centered solutions.
+<img width="1706" height="393" alt="image" src="https://github.com/user-attachments/assets/897c6e17-a618-47e2-a11c-63f8c8eae26a" />
 
 2️⃣ Define point of view  
 The Define stage focuses on clearly identifying the core business problem and key objectives based on user needs and insights gathered from the Empathize stage.
