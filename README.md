@@ -4,7 +4,7 @@
   <img src="https://github.com/user-attachments/assets/d007d335-052f-481d-8e10-818c86061478" alt="purchasing-concept">
 </p>
 
-Change Icon emoji 🔥🔍📘🚩 to your likings by clicking "Start" + "."
+
 
 # 📊 Project Title: Purchasing Performance Analysis (Power BI)
 
@@ -165,9 +165,17 @@ The Prototype & Review stage focuses on designing, testing, and refining dashboa
 
 
 📌 Analysis 1:  
-- Observation: _Describe trends, key metrics, and patterns._  
-- Recommendation: _Suggest actions based on insights._  
-
+- Observation:   
+  + Total purchasing spend reached $70.48M across 4,012 purchase orders.  
+  + Vendors maintained a strong 99.95% on-time delivery rate with an average lead time of 9 days.  
+  + The Reject Quantity Rate remained at 3.10%, with several vendors showing higher rejection levels.  
+  + Spending was concentrated in Components and Blank categories   
+- Recommendation:
+  + Monitor vendors with high reject rates.   
+  + Some products are currently uncategorized and should be assigned to appropriate categories to improve spend analysis accuracy.  
+  + Maintain delivery performance while improving procurement quality.  
+  + Prioritize vendor reviews for categories with both high spend and high reject rates.  
+  
 #### 2️⃣ Vendor Performance
 <img width="1328" height="743" alt="image" src="https://github.com/user-attachments/assets/c69d21f0-220b-47f7-946c-319952751da4" />
 
