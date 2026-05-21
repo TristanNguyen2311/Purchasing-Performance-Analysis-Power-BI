@@ -213,7 +213,7 @@ The Prototype & Review stage focuses on designing, testing, and refining dashboa
 
 ## 🔎 Final Conclusion & Recommendations  
 
-👉🏻 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following:  
+👉🏻 Based on the insights and findings above, we would recommend the Stakeholder team to consider the following:  
 
 📌 Key Takeaways:  
 ✔️ Keep tracking vendor performance regularly through key metrics like on-time delivery, reject rate, lead time, and pricing to quickly identify potential issues.     
