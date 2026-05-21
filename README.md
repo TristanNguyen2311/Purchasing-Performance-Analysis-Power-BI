@@ -166,32 +166,48 @@ The Prototype & Review stage focuses on designing, testing, and refining dashboa
 
 📌 Analysis 1:  
 - Observation:   
-  + Total purchasing spend reached $70.48M across 4,012 purchase orders.  
-  + Vendors maintained a strong 99.95% on-time delivery rate with an average lead time of 9 days.  
-  + The Reject Quantity Rate remained at 3.10%, with several vendors showing higher rejection levels.  
-  + Spending was concentrated in Components and Blank categories   
+  + Total purchasing spend reached $70.48M across 4,012 purchase orders, showing a high level of procurement activity.    
+  + Vendor delivery performance was generally strong, with an on-time rate of 99.95% and an average lead time of 9 days.    
+  + Although deliveries were mostly on time, some vendors and product categories still had relatively high reject rates.  
+  + Spending was concentrated in Components and Blank categories.      
 - Recommendation:
-  + Monitor vendors with high reject rates.   
+  + Closely monitor vendors with high reject rates to improve product quality.   
   + Some products are currently uncategorized and should be assigned to appropriate categories to improve spend analysis accuracy.  
   + Maintain delivery performance while improving procurement quality.  
   + Prioritize vendor reviews for categories with both high spend and high reject rates.  
   
 #### 2️⃣ Vendor Performance
-<img width="1328" height="743" alt="image" src="https://github.com/user-attachments/assets/c69d21f0-220b-47f7-946c-319952751da4" />
+<img width="1329" height="738" alt="image" src="https://github.com/user-attachments/assets/ab102458-7d47-4b5f-b345-06e6422610ea" />
+
 
 
 📌 Analysis 2:   
-- Observation: _Describe trends, key metrics, and patterns._  
-- Recommendation: _Suggest actions based on insights._  
-
+- Observation:   
+  + Most vendors maintained delivery performance close to 100% on-time.    
+  + Several vendors showed reject rates above 5%, suggesting possible quality issues despite timely deliveries.    
+  + Monthly average lead time remained stable at around 9 days across vendors.  
+  + The OVERSEAS - DELUXE shipping method showed lower efficiency compared to other methods.      
+- Recommendation:
+  + Review vendors with high reject rates and strengthen supplier evaluation processes.  
+  + Investigate shipping methods with lower delivery performance to improve logistics efficiency.  
+  + Use vendor metrics such as reject rate, lead time, and pricing to support supplier selection decisions.
+    
 #### 3️⃣ Price Optimazation  
 <img width="1328" height="742" alt="image" src="https://github.com/user-attachments/assets/4b1aab60-9094-406c-93d1-c533bf95d63e" />
 
 
-
 📌 Analysis 3:  
-- Observation: _Describe trends, key metrics, and patterns._  
-- Recommendation: _Suggest actions based on insights._  
+- Observation:   
+  + The selected product showed around $10.5K in potential savings, equivalent to a 5.26% savings rate.    
+  + There were noticeable price differences between vendors for the same product.    
+  + A small group of products contributed most of the saving opportunities.  
+  + Freight costs and lead times varied across shipping methods, affecting procurement efficiency.      
+- Recommendation:
+  + Prioritize negotiations with vendors that have large price differences.  
+  + Focus on products with the highest saving opportunities first.  
+  + Review shipping methods with high freight costs or longer lead times to optimize procurement costs.
+
+
 
 ---
 
@@ -200,6 +216,8 @@ The Prototype & Review stage focuses on designing, testing, and refining dashboa
 👉🏻 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following:  
 
 📌 Key Takeaways:  
-✔️ Recommendation 1  
-✔️ Recommendation 2  
-✔️ Recommendation 3
+✔️ Keep tracking vendor performance regularly through key metrics like on-time delivery, reject rate, lead time, and pricing to quickly identify potential issues.     
+✔️ Focus on negotiating with vendors that have large price gaps or high saving opportunities to improve procurement efficiency.  
+✔️ Work more closely with vendors that show high reject rates in order to improve product quality and reduce procurement risks.   
+✔️ Consider expanding the supplier base in high-spend categories to avoid overdependence on a small number of vendors.   
+✔️ Review shipping methods and freight costs regularly to improve delivery performance and better control operational expenses.    
