@@ -45,7 +45,7 @@ Create an Operations Dashboard that provides leadership with a clear, easy-to-un
 ✔️ Optimize purchasing costs to improve company profitability.  
 
 
-### 🎯Project Outcome:  chua lam`
+### 🎯Project Outcome:  
 Summarize key findings and insights/ trends/ themes in a concise, bullet-point 
 format.  
 
