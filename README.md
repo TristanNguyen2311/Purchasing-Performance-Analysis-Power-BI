@@ -161,24 +161,22 @@ The Prototype & Review stage focuses on designing, testing, and refining dashboa
 ### 🔍 Dashboard Preview  
 
 #### 1️⃣ Purchasing Overview
-<img width="1333" height="740" alt="image" src="https://github.com/user-attachments/assets/86695f4c-4793-47bf-96a3-6bac3a128e5f" />
+<img width="1330" height="743" alt="image" src="https://github.com/user-attachments/assets/a4f3a8c8-1268-44d9-9250-ca4e20615108" />
 
 
 📌 Analysis 1:  
 - Observation:   
   + Total purchasing spend reached $70.48M across 4,012 purchase orders, showing a high level of procurement activity.    
   + Vendor delivery performance was generally strong, with an on-time rate of 99.95% and an average lead time of 9 days.    
-  + Although deliveries were mostly on time, some vendors and product categories still had relatively high reject rates.  
-  + Spending was concentrated in Components and Blank categories.      
+  + 12.64% of purchase orders (507/4,012) contained at least one rejected item, with Components showing the highest reject rate among classified categories (3.45%).  
+  + 56% of purchasing spend currently lacks category classification, limiting the reliability of category-level analysis and Components is the largest classified category at $26.7M.      
 - Recommendation:
   + Closely monitor vendors with high reject rates to improve product quality.   
-  + Some products are currently uncategorized and should be assigned to appropriate categories to improve spend analysis accuracy.  
-  + Maintain delivery performance while improving procurement quality.  
+  + Some products are currently uncategorized and should be assigned to appropriate categories to improve spend analysis accuracy.   
   + Prioritize vendor reviews for categories with both high spend and high reject rates.  
   
 #### 2️⃣ Vendor Performance
-<img width="1329" height="738" alt="image" src="https://github.com/user-attachments/assets/ab102458-7d47-4b5f-b345-06e6422610ea" />
-
+<img width="1329" height="746" alt="image" src="https://github.com/user-attachments/assets/aa1184c9-f294-4a66-ba59-8582fb4ca55b" />
 
 
 📌 Analysis 2:   
@@ -193,7 +191,8 @@ The Prototype & Review stage focuses on designing, testing, and refining dashboa
   + Use vendor metrics such as reject rate, lead time, and pricing to support supplier selection decisions.
     
 #### 3️⃣ Price Optimazation  
-<img width="1328" height="742" alt="image" src="https://github.com/user-attachments/assets/4b1aab60-9094-406c-93d1-c533bf95d63e" />
+<img width="1333" height="743" alt="image" src="https://github.com/user-attachments/assets/7355ced0-c2d1-4422-8606-38b1d3d7197d" />
+
 
 
 📌 Analysis 3:  
