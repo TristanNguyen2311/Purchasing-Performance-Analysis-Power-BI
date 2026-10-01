@@ -181,14 +181,15 @@ The Prototype & Review stage focuses on designing, testing, and refining dashboa
 
 📌 Analysis 2:   
 - Observation:   
-  + Most vendors maintained delivery performance close to 100% on-time.    
-  + Several vendors showed reject rates above 5%, suggesting possible quality issues despite timely deliveries.    
-  + Monthly average lead time remained stable at around 9 days across vendors.  
-  + The OVERSEAS - DELUXE shipping method showed lower efficiency compared to other methods.      
+  + All active vendors (86) except one achieved a perfect 100% on-time delivery rate; Integrated Sport Products recorded a 75% on-time rate and the highest average lead time (25 days) among its orders; both driven by a single severely delayed shipment.
+  + 11 of 86 vendors (12.8%) showed reject rates above 5%, indicating quality issues concentrated in a specific subset of vendors rather than spread evenly.  
+  + Average lead time was stable at ~9 days for most vendors, but a small group of low-volume vendors (1-4 orders each) showed lead times up to 25 days.
+  + The OVERSEAS - DELUXE shipping method showed lower on-time performance (98.75%) compared to all other methods, which achieved 100%.      
 - Recommendation:
-  + Review vendors with high reject rates and strengthen supplier evaluation processes.  
-  + Investigate shipping methods with lower delivery performance to improve logistics efficiency.  
-  + Use vendor metrics such as reject rate, lead time, and pricing to support supplier selection decisions.
+  + Flag "Integrated Sport Products" for immediate review — it is the only vendor showing issues on both on-time delivery and lead time simultaneously.  
+  + Review the 11 vendors (of 86) with reject rates above 5% and strengthen supplier evaluation processes for this group.  
+  + Investigate the OVERSEAS - DELUXE shipping method specifically to understand the cause of its lower on-time performance and improve logistics efficiency.
+  + Use vendor metrics such as reject rate, lead time, and pricing together to support supplier selection decisions, rather than relying on any single metric alone.
     
 #### 3️⃣ Price Optimazation  
 <img width="1333" height="743" alt="image" src="https://github.com/user-attachments/assets/7355ced0-c2d1-4422-8606-38b1d3d7197d" />
@@ -197,26 +198,25 @@ The Prototype & Review stage focuses on designing, testing, and refining dashboa
 
 📌 Analysis 3:  
 - Observation:   
-  + The selected product showed around $10.5K in potential savings, equivalent to a 5.26% savings rate.    
-  + There were noticeable price differences between vendors for the same product.    
-  + A small group of products contributed most of the saving opportunities.  
-  + Freight costs and lead times varied across shipping methods, affecting procurement efficiency.      
+  + For the selected product, potential savings can reach up to $10.5K (5.26% of spend) when purchased at the lowest available vendor price — illustrating the scale of savings achievable through vendor price comparison.   
+  + Price differences between vendors for the same product can be significant — Premier Sport, Inc shows the highest overpricing at 32.15% above the best available price.  
+  + Saving opportunities are highly concentrated: Touring Rim accounts for $346.5K — 39% of the company's total $889,978 potential savings.
+  + Freight costs remain efficient and stable at ~2.5% of order value across most shipping methods, with OVERSEAS - DELUXE actually showing the lowest rate (2.35%) — indicating no major freight inefficiency to address.   
 - Recommendation:
-  + Prioritize negotiations with vendors that have large price differences.  
-  + Focus on products with the highest saving opportunities first.  
-  + Review shipping methods with high freight costs or longer lead times to optimize procurement costs.
-
-
+  + Prioritize negotiation with Premier Sport, Inc first — it shows both the highest price gap (32.15%) and the largest dollar impact ($346.5K via Touring Rim).
+  + Focus cost-optimization efforts on the small set of high-impact products (led by Touring Rim) rather than spreading attention evenly across the full catalog. 
+  + No action needed on freight structure at this time — current rates are already consistent and efficient across shipping methods.
 
 ---
 
 ## 🔎 Final Conclusion & Recommendations  
 
 👉🏻 Based on the insights and findings above, we would recommend the Stakeholder team to consider the following:  
-
+✔️ Product quality remains mostly reliable — only 12.64% of orders (507/4,012) contained a rejected item, and reject rates above 5% were concentrated in just 11 of 86 active vendors.
+✔️ Delivery performance is excellent overall — 99.95% of orders arrived on time, with the only exceptions being Integrated Sport Products (75% on-time, 25-day lead time) and the OVERSEAS - DELUXE shipping method (98.75% vs. 100% for all others).
+✔️ Cost savings potential ($889,978, or 1.40% of total spend) is highly concentrated rather than evenly spread — a single product Touring Ri purchased from Premier Sport, Inc accounts for 39% of the total opportunity ($346.5K) alone.
 📌 Key Takeaways:  
 ✔️ Keep tracking vendor performance regularly through key metrics like on-time delivery, reject rate, lead time, and pricing to quickly identify potential issues.     
-✔️ Focus on negotiating with vendors that have large price gaps or high saving opportunities to improve procurement efficiency.  
-✔️ Work more closely with vendors that show high reject rates in order to improve product quality and reduce procurement risks.   
-✔️ Consider expanding the supplier base in high-spend categories to avoid overdependence on a small number of vendors.   
-✔️ Review shipping methods and freight costs regularly to improve delivery performance and better control operational expenses.    
+✔️ Open renegotiation with Premier Sport, Inc first and prioritize cost-reduction efforts on high-impact products like Touring Rim rather than spreading attention evenly across the catalog.
+✔️ Strengthen supplier evaluation specifically for the 11 vendors with reject rates above 5%, and flag Jeff's Sporting Goods" for immediate review — it shows the highest lead time gap versus plan (+6.5 days, actual 25 vs. planned 18.5) among all 86 vendors
+✔️ Continue monitoring OVERSEAS - DELUXE and overall vendor concentration, while maintaining current freight practices — these are already cost-efficient and do not require intervention at this time.
