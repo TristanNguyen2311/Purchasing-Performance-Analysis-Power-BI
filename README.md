@@ -40,20 +40,16 @@ Create an Operations Dashboard that provides leadership with a clear, easy-to-un
 
 ###  ❓Business Questions:  
 
-✔️ Identify high-performing and best-selling products to increase revenue and customer growth.   
-✔️ Manage procurement lead time to ensure smooth operations and timely delivery.  
-✔️ Optimize purchasing costs to improve company profitability.  
+✔️ Are we maintaining sufficient inventory levels to support sales without stockouts or quality-related shortfalls?  
+✔️ Are vendors delivering orders on time, and where are the delays occurring?  
+✔️ Are we purchasing at optimal prices, and where are the biggest cost-saving opportunities?
 
 
 ### 🎯Project Outcome:  
-Summarize key findings and insights/ trends/ themes in a concise, bullet-point 
-format.  
 
- _Example:_
-
-✔️ Sales Trends: The top X% of products generate Y% of revenue.  
-✔️ Inventory Optimization: Certain products are frequently out-of-stock, causing revenue loss.  
-✔️ Customer Behavior: Returning customers spend Z% more per transaction than new customers.  
+✔️ Sufficient Inventory (Quality/Supply): 12.64% of orders experienced a quality issue, concentrated in just 11 of 86 vendors — the problem is manageable through targeted vendor review.
+✔️ On-time Delivery: 99.95% of orders delivered on time overall, with issues isolated to a single shipping method (OVERSEAS - DELUXE) and a single vendor exceeding its committed lead time (Jeff's Sporting Goods).
+✔️ Optimized Procurement Cost: $889,978 in potential savings is highly concentrated in one vendor relationship — Premier Sport, Inc.  accounts for 39% of the total opportunity.
 
 ---
 
@@ -212,11 +208,11 @@ The Prototype & Review stage focuses on designing, testing, and refining dashboa
 ## 🔎 Final Conclusion & Recommendations  
 
 👉🏻 Based on the insights and findings above, we would recommend the Stakeholder team to consider the following:  
-✔️ Product quality remains mostly reliable — only 12.64% of orders (507/4,012) contained a rejected item, and reject rates above 5% were concentrated in just 11 of 86 active vendors.
-✔️ Delivery performance is excellent overall — 99.95% of orders arrived on time, with the only exceptions being Integrated Sport Products (75% on-time, 25-day lead time) and the OVERSEAS - DELUXE shipping method (98.75% vs. 100% for all others).
-✔️ Cost savings potential ($889,978, or 1.40% of total spend) is highly concentrated rather than evenly spread — a single product Touring Ri purchased from Premier Sport, Inc accounts for 39% of the total opportunity ($346.5K) alone.
+✔️ Product quality remains mostly reliable — only 12.64% of orders (507/4,012) contained a rejected item, and reject rates above 5% were concentrated in just 11 of 86 active vendors.  
+✔️ Delivery performance is excellent overall — 99.95% of orders arrived on time, with the only exceptions being Integrated Sport Products (75% on-time, 25-day lead time) and the OVERSEAS - DELUXE shipping method (98.75% vs. 100% for all others).  
+✔️ Cost savings potential ($889,978, or 1.40% of total spend) is highly concentrated rather than evenly spread — a single product Touring Ri purchased from Premier Sport, Inc accounts for 39% of the total opportunity ($346.5K) alone.  
 📌 Key Takeaways:  
-✔️ Keep tracking vendor performance regularly through key metrics like on-time delivery, reject rate, lead time, and pricing to quickly identify potential issues.     
-✔️ Open renegotiation with Premier Sport, Inc first and prioritize cost-reduction efforts on high-impact products like Touring Rim rather than spreading attention evenly across the catalog.
-✔️ Strengthen supplier evaluation specifically for the 11 vendors with reject rates above 5%, and flag Jeff's Sporting Goods" for immediate review — it shows the highest lead time gap versus plan (+6.5 days, actual 25 vs. planned 18.5) among all 86 vendors
-✔️ Continue monitoring OVERSEAS - DELUXE and overall vendor concentration, while maintaining current freight practices — these are already cost-efficient and do not require intervention at this time.
+✔️ Keep tracking vendor performance regularly through key metrics like on-time delivery, reject rate, lead time, and pricing to quickly identify potential issues.       
+✔️ Open renegotiation with Premier Sport, Inc first and prioritize cost-reduction efforts on high-impact products like Touring Rim rather than spreading attention evenly across the catalog.  
+✔️ Strengthen supplier evaluation specifically for the 11 vendors with reject rates above 5%, and flag Jeff's Sporting Goods" for immediate review — it shows the highest lead time gap versus plan (+6.5 days, actual 25 vs. planned 18.5) among all 86 vendors.  
+✔️ Continue monitoring OVERSEAS - DELUXE and overall vendor concentration, while maintaining current freight practices — these are already cost-efficient and do not require intervention at this time.  
